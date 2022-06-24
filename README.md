@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Gabriel Ifoga! Tech Enthusiast, and Multipreneur, I have extensive experience in Web Applications, Software Development as well as Linux System Administration & DevOps Skill
+
+- 👯 I’m looking to collaborate on ... any project
+- 💬 Ask me about ... Me!
+
 <!--
 **omoh09/omoh09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
