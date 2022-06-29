@@ -10,7 +10,7 @@ MySQL, postgreSQL are some database I'm proficient at, but MongoDB is still my f
 
 I have passion for technology and how it solves specific problems daily. Its my desire to contribute my quota to making the world a much better place using technology.
 
-React in View
+[Javascipt and React to a fullstack Engineer in View]
 
 
 - 👯 I’m looking to collaborate on ... any project
