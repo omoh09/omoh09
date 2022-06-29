@@ -1,6 +1,17 @@
 ### Hi there 👋
 
-My name is Gabriel Ifoga! Tech Enthusiast, and Multipreneur, I have extensive experience in Web Applications, Software Development as well as Linux System Administration & DevOps Skill
+My name is Gabriel Ifoga! Tech Enthusiast, passionate Software Engineer and Multipreneur, I have extensive experience in Web Applications, Software Development as well as Linux System Administration & DevOps Skill
+
+I loves solving problems by creating products through codes.
+
+I focus on PHP and Laravel framework.
+
+MySQL, postgreSQL are some database I'm proficient at, but MongoDB is still my favorite
+
+I have passion for technology and how it solves specific problems daily. Its my desire to contribute my quota to making the world a much better place using technology.
+
+React in View
+
 
 - 👯 I’m looking to collaborate on ... any project
 - 💬 Ask me about ... Me!
