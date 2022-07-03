@@ -6,7 +6,7 @@ I loves solving problems by creating products through codes.
 
 I focus on PHP and Laravel framework.
 
-MySQL, postgreSQL are some database I'm proficient at, but MongoDB is still my favorite
+MySQL, SQLite are some database I'm proficient at, but MongoDB is still my favorite
 
 I have passion for technology and how it solves specific problems daily. Its my desire to contribute my quota to making the world a much better place using technology.
 
